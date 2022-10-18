@@ -1,0 +1,56 @@
+ {
+	"lakeside": {
+		"info_open": "12:00",
+		"info_close": "14:00",
+		"location": "stag hill" ,
+		"type": "casual" 
+		},
+  	"starbucks": {
+		"info_open" : "8:30",
+		"info_close": "17:00",
+		"location": "stag hill",
+		"type": "casual"
+		},  
+	"teas and tees": {
+		"info_open" : "9:00",
+		"info_close": "17:00",
+		"location": "stag hill",
+		"type": "casual"
+		}, 
+	"theatro": {
+		"info_open" : "9:00",
+		"info_close": "17:00",
+		"location": "stag hill",
+		"type": "casual"
+		}, 
+	"vet school cafe": {
+		"info_open" : "8:00",
+		"info_close": "18:00",
+		"location": "Manor Park",
+		"type": "casual"
+		}, 
+	"pizzaman": {
+		"info_open" : "12:00",
+		"info_close": "21:45",
+		"location": "stag hill",
+		"type": "italian"
+		}, 
+	"youngs": {
+		"info_open" : "6:30",
+		"info_close": "17:00",
+		"location": "stag hill",
+		"type": "chinese"
+		}, 
+	"hillside": {
+		"info_open" : "11:00",
+		"info_close": "19:00",
+		"location": "stag hill",
+		"type": "casual"
+		}, 
+	"wates": {
+		"info_open" : "12:00",
+		"info_close": "23:00",
+		"location": "stag hill",
+		"type": "bars"
+		}
+       }

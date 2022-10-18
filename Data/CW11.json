@@ -1,0 +1,314 @@
+{
+    "info_timings":[
+        [
+            "When will the lakeside close",
+            "info_timings"
+        ],
+        [
+            "When will starbucks close",
+            "info_timings"
+        ],
+        [
+            "when will Theatre opens",
+            "info_timings"
+        ],
+        [
+            "when will Pizzaman opens",
+            "info_timings"
+        ],
+        [
+            "will lakeside be open till 11",
+            "info_timings"
+        ],
+        [
+            "will hillside be open till 7",
+            "info_timings"
+        ],
+        [
+            "what are timings during weekends",
+            "info_timings"
+        ],
+        [
+            "weekend timings for youngs kitchen",
+            "info_timings"
+        ],
+        [
+            "which restaurants are open during the weekend",
+            "info_timings"
+        ],
+        [
+            "weekend opening timing for Pizzaman",
+            "info_timings"
+        ],
+        [
+            "weekend closing time for Wates house",
+            "info_timings"
+        ],
+        [
+            "When will vet school cafe opens",
+            "info_timings"
+        ],
+        [
+            "will hillside serve after 6 pm",
+            "info_timings"
+        ],
+        [
+            "will wates house serve after 11 pm",
+            "info_timings"
+        ],
+        [
+            "is lakeside open after 3 pm",
+            "info_timings"
+        ]
+    ],
+    "info_location" :[
+        [
+            "where is lakeside located",
+            "info_location"
+        ],
+        [
+            "where starbucks is located",
+            "info_location"
+        ],
+        [
+            "what resturants are located in manor park",
+            "info_location"
+        ],
+        [
+            "what resuranrs are located in stag hill",
+            "info_location"
+        ],
+        [
+            "is vet school cafe in manor park",
+            "info_location"
+        ],
+        [
+            "where is Teas and Tees located",
+            "info_location"
+        ],
+        [
+            "What restaurants are close to the library",
+            "info_location"
+        ],
+        [
+            "What restaurants are near taching block",
+            "info_location"
+        ],
+        [
+            "Which restaurants are close to the rubix",
+            "info_location"
+        ],
+        [
+            "What restaurants are close to the cathedral",
+            "info_location"
+        ],
+        [
+            "What restaurants are near the surrey hive",
+            "info_location"
+        ],
+        [
+            "is lakeside in stag hill",
+            "info_location"
+        ],
+        [
+            "is hillside in stag hill",
+            "info_location"
+        ],
+        [
+            "Where is wates house",
+            "info_location"
+        ],
+        [
+            "How far is Theatro from hillside",
+            "info_location"
+        ]
+
+    ],
+    "info_type" : [
+        [
+            "what are the chinese resrurats in university",
+            "info_type"
+        ],
+        [
+            "what are italian resturants",
+            "info_type"
+        ],
+        [
+            "is there any bars on campus",
+            "info_type"
+        ],
+        [
+            "is there any italian restaurants on campus",
+            "info_type"
+        ],
+        [
+            "Where are the names of chinese restaurants",
+            "info_type"
+        ],
+        [
+            "what are british restaurant in the university",
+            "info_type"
+        ],
+        [
+            "are there any chinese restaurant on campus",
+            "info_type"
+        ],
+        [
+            "Where can we find the best pizza in the campus",
+            "info_type"
+        ],
+        [
+            "Which restaurants serves indian cusine in the campus",
+            "info_type"
+        ],
+        [
+            "Which are the best cafes near the main campus",
+            "info_type"
+        ],
+        [
+            "is pizzaman a italian restaurant",
+            "info_type"
+        ],
+        [
+            "is youngs a chinese restaurant",
+            "info_type"
+        ],
+        [
+            "what are the casual restaurants in manor park",
+            "info_type"
+        ],
+        [
+            "is starbucks and casual restaurant",
+            "info_type"
+        ],
+        [
+            "is wates house a bars",
+            "info_type"
+        ]
+    ],
+    "greetings" :[
+        [
+            "how ya doin", 
+            "greeting"
+        ], 
+        [
+            "how ya been", 
+            "greeting"
+        ], 
+        [
+            "hows are ya", 
+            "greeting"
+        ], 
+        [
+            "are you good", 
+            "greeting"
+        ], 
+        [
+            "how you are", 
+            "greeting"
+        ], 
+        [
+            "tell me how are you", 
+            "greeting"
+        ], 
+        [
+            "hey what's up", 
+            "greeting"
+        ], 
+        [
+            "hey how's it going", 
+            "greeting"
+        ], 
+        [
+            "how've you been", 
+            "greeting"
+        ], 
+        [
+            "hey", 
+            "greeting"
+        ], 
+        [
+            "hiya", 
+            "greeting"
+        ], 
+        [
+            "hi", 
+            "greeting"
+        ], 
+        [
+            "hello", 
+            "greeting"
+        ],
+        [
+            "good morning",
+            "greeting"
+        ],
+        [
+            "good afternoon",
+            "greeting"
+        ]
+    ],
+    "goodbye" :[
+        [
+            "nice to speak with you", 
+            "goodbye"
+        ], 
+        [
+            "this was a great conversation", 
+            "goodbye"
+        ], 
+        [
+            "talk to you later", 
+            "goodbye"
+        ], 
+        [
+            "that's all, bye", 
+            "goodbye"
+        ], 
+        [
+            "great chat, talk to you later", 
+            "goodbye"
+        ], 
+        [
+            "nice talk, talk to you later", 
+            "goodbye"
+        ], 
+        [
+            "goodbye to you", 
+            "goodbye"
+        ], 
+        [
+            "i must say goodbye", 
+            "goodbye"
+        ], 
+        [
+            "thanks for talking", 
+            "goodbye"
+        ], 
+        [
+            "it was nice chatting with you", 
+            "goodbye"
+        ], 
+        [
+            "it was nice to speak with you", 
+            "goodbye"
+        ], 
+        [
+            "peace", 
+            "goodbye"
+        ], 
+        [
+            "bye for now", 
+            "goodbye"
+        ], 
+        [
+            "thanks, bye", 
+            "goodbye"
+        ], 
+        [
+            "talk to you later!", 
+            "goodbye"
+        ]
+        
+    ]
+}
