@@ -4,8 +4,11 @@
 Building a Basic "Intelligent" Chat bot. 
 
 This bot has three components 
+
 1)Intent Classification 
+
 2)Named Entity Recognition 
+
 3)Dialogue Flow Manger 
 
 Please see the main.pdf for whole code and extra files are also provided 
